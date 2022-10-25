@@ -3,6 +3,7 @@ Created on 23 de out. de 2022
 
 @author: daline
 '''
+# define o valor do limiar
 limiar = 5
 
 menores = [] # cria lista menores

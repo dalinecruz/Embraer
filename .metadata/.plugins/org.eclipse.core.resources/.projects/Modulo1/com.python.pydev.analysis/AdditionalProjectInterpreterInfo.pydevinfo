@@ -1,12 +1,41 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\dalin\OneDrive\Embraer\.metadata\.plugins\org.eclipse.core.resources\.projects\Modulo1\com.python.pydev.analysis\v2_indexcache
+testes.limiar_erro|1666563969691843000|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
+trabalho_pratico.atividade2_divisor|1666657082306695400|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
+trabalho_pratico.__init__|1666657644302689200|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico|^
+trabalho_pratico.atividade4_maiusculo_minusculo|1666657939718298000|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_maiusculo_minusculo.py
+trabalho_pratico.atividade3_multiplos|1666657082270690500|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
+testes.__init__|1666563953835001900|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes|^
+testes.testeInicialNome|1666551858686583500|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
+testes.limiar|1666656322686882400|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+12
+1=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_maiusculo_minusculo.py
+10=testes.limiar_erro
+11=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
+2=trabalho_pratico.atividade4_maiusculo_minusculo
+4=trabalho_pratico.atividade2_divisor
+3=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
+6=trabalho_pratico.atividade3_multiplos
+9=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
+8=testes.limiar
+12=testes.testeInicialNome
+5=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
+7=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 -- END DICTIONARY
 -- START TREE 1
-0
+9
+cid|1|cidade!1^9#1*19@
+cpf|1|cpf!1^10#1*19@
+div|1|divisor!3^8#1*35@
+fim|2|fim!5^9#1*51@fim!3^10#1*35@
+ini|2|inicio!5^8#1*51@inicio!3^9#1*35@
+lim|2|limiar!7^7#1*67@limiar!9^6#1*83@
+mai|2|maiores!9^9#1*83@maiores!7^10#1*67@
+men|2|menores!9^8#1*83@menores!7^9#1*67@
+nom|2|nome!11^7#1*99@nome!1^8#1*19@
 -- END TREE
 -- START TREE 2
 0
