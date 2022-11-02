@@ -1,43 +1,50 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\dalin\OneDrive\Embraer\.metadata\.plugins\org.eclipse.core.resources\.projects\Modulo1\com.python.pydev.analysis\v2_indexcache
-trabalho_pratico.soma_string|1666659779823673900|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\soma_string.py
 testes.limiar_erro|1666563969691843000|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
-trabalho_pratico.atividade2_divisor|1666657082306695400|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
-trabalho_pratico.__init__|1666659752426482100|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico|^
-trabalho_pratico.atividade4_string|1666659573212474100|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_string.py
-trabalho_pratico.atividade3_multiplos|1666657082270690500|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
-testes.__init__|1666563953835001900|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes|^
+trabalho_pratico.__init__|1666662420857296700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico|^
+trabalho_pratico.atividade2_divisor|1666662420838291900|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
+trabalho_pratico.atividade4_string|1666662420855295900|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_string.py
+trabalho_pratico.atividade3_multiplos|1666662420853293700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
+testes.__init__|1666662420827294100|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes|^
+trabalho_pratico.atividade1|1666662420832291500|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade1.py
+trabalho_pratico.atividade5_soma_string|1666662420857296700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade5_soma_string.py
+testes.limiar|1666662420828295100|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 testes.testeInicialNome|1666551858686583500|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
-testes.limiar|1666656322686882400|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 -- END DISKCACHE
 -- START DICTIONARY
-12
-10=testes.limiar_erro
-11=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
+16
 2=trabalho_pratico.atividade4_string
-4=trabalho_pratico.atividade2_divisor
 1=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_string.py
+8=trabalho_pratico.atividade3_multiplos
+11=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
+16=trabalho_pratico.atividade5_soma_string
+14=testes.testeInicialNome
+7=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
+12=testes.limiar_erro
+15=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade5_soma_string.py
+5=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade1.py
+13=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
+4=trabalho_pratico.atividade2_divisor
 3=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
-6=trabalho_pratico.atividade3_multiplos
-9=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
-8=testes.limiar
-12=testes.testeInicialNome
-5=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
-7=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
+6=trabalho_pratico.atividade1
+10=testes.limiar
+9=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 -- END DICTIONARY
 -- START TREE 1
-10
+12
 cid|1|cidade!1^9#1*19@
 cpf|1|cpf!1^10#1*19@
 div|1|divisor!3^8#1*35@
-fim|2|fim!5^9#1*51@fim!3^10#1*35@
+fim|3|fim!5^9#1*51@fim!7^9#1*67@fim!3^10#1*35@
 i|1|i!1^20#1*19@
-ini|2|inicio!5^8#1*51@inicio!3^9#1*35@
-lim|2|limiar!7^7#1*67@limiar!9^6#1*83@
-mai|2|maiores!9^9#1*83@maiores!7^10#1*67@
-men|2|menores!9^8#1*83@menores!7^9#1*67@
-nom|2|nome!11^7#1*99@nome!1^8#1*19@
+ini|3|inicio!5^8#1*51@inicio!7^8#1*67@inicio!3^9#1*35@
+lim|2|limiar!9^7#1*83@limiar!11^6#1*99@
+mai|2|maiores!11^9#1*99@maiores!9^10#1*83@
+men|2|menores!11^8#1*99@menores!9^9#1*83@
+nom|2|nome!13^7#1*115@nome!1^8#1*19@
+num|1|numero!15^8#1*131@
+som|1|soma!15^9#1*131@
 -- END TREE
 -- START TREE 2
 0
