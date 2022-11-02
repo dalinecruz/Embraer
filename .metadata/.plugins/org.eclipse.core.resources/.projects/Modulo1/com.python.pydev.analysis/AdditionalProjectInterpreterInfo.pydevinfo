@@ -1,28 +1,33 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\dalin\OneDrive\Embraer\.metadata\.plugins\org.eclipse.core.resources\.projects\Modulo1\com.python.pydev.analysis\v2_indexcache
-testes.limiar_erro|1666563969691843000|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
-trabalho_pratico.__init__|1666662420857296700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico|^
-trabalho_pratico.atividade2_divisor|1666662420838291900|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
 trabalho_pratico.atividade4_string|1666662420855295900|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_string.py
 trabalho_pratico.atividade3_multiplos|1666662420853293700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
+desafio.atividade1|1667416725805953500|C:\Users\dalin\OneDrive\Embraer\Modulo1\desafio\atividade1.py
 testes.__init__|1666662420827294100|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes|^
-trabalho_pratico.atividade1|1666662420832291500|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade1.py
 trabalho_pratico.atividade5_soma_string|1666662420857296700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade5_soma_string.py
-testes.limiar|1666662420828295100|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 testes.testeInicialNome|1666551858686583500|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
+desafio.atividade2|1667416763642504000|C:\Users\dalin\OneDrive\Embraer\Modulo1\desafio\atividade2.py
+testes.limiar_erro|1666563969691843000|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
+desafio.__init__|1667416763643502000|C:\Users\dalin\OneDrive\Embraer\Modulo1\desafio|^
+trabalho_pratico.__init__|1666662420857296700|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico|^
+trabalho_pratico.atividade2_divisor|1666662420838291900|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade2_divisor.py
+trabalho_pratico.atividade1|1666662420832291500|C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade1.py
+testes.limiar|1666662420828295100|C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 -- END DISKCACHE
 -- START DICTIONARY
-16
+18
+15=C:\Users\dalin\OneDrive\Embraer\Modulo1\desafio\atividade1.py
 2=trabalho_pratico.atividade4_string
 1=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade4_string.py
 8=trabalho_pratico.atividade3_multiplos
+16=desafio.atividade1
 11=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar_erro.py
-16=trabalho_pratico.atividade5_soma_string
+18=trabalho_pratico.atividade5_soma_string
 14=testes.testeInicialNome
 7=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade3_multiplos.py
 12=testes.limiar_erro
-15=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade5_soma_string.py
+17=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade5_soma_string.py
 5=C:\Users\dalin\OneDrive\Embraer\Modulo1\trabalho_pratico\atividade1.py
 13=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\testeInicialNome.py
 4=trabalho_pratico.atividade2_divisor
@@ -32,7 +37,7 @@ testes.testeInicialNome|1666551858686583500|C:\Users\dalin\OneDrive\Embraer\Modu
 9=C:\Users\dalin\OneDrive\Embraer\Modulo1\testes\limiar.py
 -- END DICTIONARY
 -- START TREE 1
-12
+13
 cid|1|cidade!1^9#1*19@
 cpf|1|cpf!1^10#1*19@
 div|1|divisor!3^8#1*35@
@@ -42,9 +47,10 @@ ini|3|inicio!5^8#1*51@inicio!7^8#1*67@inicio!3^9#1*35@
 lim|2|limiar!9^7#1*83@limiar!11^6#1*99@
 mai|2|maiores!11^9#1*99@maiores!9^10#1*83@
 men|2|menores!11^8#1*99@menores!9^9#1*83@
-nom|2|nome!13^7#1*115@nome!1^8#1*19@
-num|1|numero!15^8#1*131@
-som|1|soma!15^9#1*131@
+nom|3|nome!13^7#1*115@nomes!15^8#1*131@nome!1^8#1*19@
+num|1|numero!17^8#1*147@
+qtd|1|qtd_letras!15^11#1*131@
+som|1|soma!17^9#1*147@
 -- END TREE
 -- START TREE 2
 0
