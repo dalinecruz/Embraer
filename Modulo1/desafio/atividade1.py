@@ -14,4 +14,11 @@ qtd_letras = {}
 for nome in nomes:
     qtd_letras[nome] = len(nome)
     
-print(qtd_letras)
+print(len(qtd_letras))
+print(len(nomes))
+print(type(nomes), type(qtd_letras))
+
+
+print({nome: len(nome) for nome in nomes if nome == len(nome)})
+print({nome: len(nome) for nome in nomes})
+print({nome: len(nome)} for nome in nomes if nome == len(nome))
