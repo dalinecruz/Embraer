@@ -7,7 +7,6 @@ Created on 7 de nov. de 2022
 # importação das bibliotecas
 import numpy as np
 
-## Código 5 ##
-A = np.ones((2,2))
-X = 2*A
-print("X:\n", X)
+## Código 7 ##
+X = np.array([[1,3],[11,10]])
+print(np.mean(X[X > np.pi]))
