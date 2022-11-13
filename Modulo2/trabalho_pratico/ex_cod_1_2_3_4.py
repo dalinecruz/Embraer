@@ -25,3 +25,15 @@ print("Z: ", Z)
 Z = np.zeros((4, ))
 Z[:3] = 1.
 print("Z: ", Z)
+
+Z = np.zeros((4, ))
+Z[:-1] = 1.
+print("Z: ", Z)
+
+Z = np.zeros((4, ))
+Z[:3] = 1.
+print("Z: ", Z)
+
+Z = np.ones((4,))
+Z[-1] = 0.
+print("Z: ", Z)
