@@ -1,3 +1,6 @@
+---------------------------------------------------------------------------------
+Desativar o Conda (conda deactivate)
+
 Verificar a versão do Python (python --version)
 
 Criar um ambiente virtual (python -m venv env)
@@ -9,3 +12,12 @@ Intalar o Django (pip install django)
 Verificar a versão do Django instalada (python -m django --version)
 
 Guardar as dependências (pip freeze > requeriments.txt)
+---------------------------------------------------------------------------------
+
+Criar projeto (django-admin startproject projeto1)
+
+Fazer as configurações do settings.py (arquivos estáticos e templates)
+
+Subir o servidor do projeto (python manage.py runserver)
+
+Derrubar o servidor do projeto (Ctrl+c)
