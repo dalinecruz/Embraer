@@ -1,0 +1,11 @@
+Verificar a versão do Python (python --version)
+
+Criar um ambiente virtual (python -m venv env)
+
+Ativar o ambiente virtual (.\env\Scripts\activate)
+
+Intalar o Django (pip install django)
+
+Verificar a versão do Django instalada (python -m django --version)
+
+Guardar as dependências (pip freeze > requeriments.txt)
