@@ -28,8 +28,14 @@ Configurar as urls (app1 e projeto1)
 Criar migrações do model User (python manage.py makemigrations)
 
 Aplicar as migrações (python manage.py migrate)
----------------------------------------------------------------------------------
+
 Python Shell - Verificação de criação de tabelas (python manage.py shell)
 
 Criar super usuário (python manage.py createsuperuser)
 
+Registrar models no admin.py (app1)
+---------------------------------------------------------------------------------
+Erro na inserção de dados:
+	Mudar o campo no models
+	Criar migrações (python manage.py makemigrations)
+	Aplicar as migrações (python manage.py migrate)
