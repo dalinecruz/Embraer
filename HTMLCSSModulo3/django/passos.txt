@@ -13,11 +13,20 @@ Verificar a versão do Django instalada (python -m django --version)
 
 Guardar as dependências (pip freeze > requeriments.txt)
 ---------------------------------------------------------------------------------
-
 Criar projeto (django-admin startproject projeto1)
 
 Fazer as configurações do settings.py (arquivos estáticos e templates)
 
 Subir o servidor do projeto (python manage.py runserver)
 
-Derrubar o servidor do projeto (Ctrl+c)
+Criar aplicativo dentro do projeto Django (python manage.py startapp app1)
+	Criar a pasta templates dentro de app1
+	Criar arquivo url.py
+
+Configurar as urls (app1 e projeto1)
+---------------------------------------------------------------------------------
+Criar migrações do model User (python manage.py makemigrations)
+
+Aplicar as migrações (python manage.py migrate)
+
+
