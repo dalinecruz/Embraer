@@ -31,3 +31,5 @@ Aplicar as migrações (python manage.py migrate)
 ---------------------------------------------------------------------------------
 Python Shell - Verificação de criação de tabelas (python manage.py shell)
 
+Criar super usuário (python manage.py createsuperuser)
+
