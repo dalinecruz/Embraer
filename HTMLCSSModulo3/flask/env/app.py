@@ -7,7 +7,7 @@ app = Flask(__name__, template_folder=template_dir)
 
 @app.route('/user')
 
-@app.route('/user/<nome>')
-def index(nome=None):
-    print(nome)
-    return render_template('index.html')
+@app.route('/user/<name>')
+def index(name=None):
+    print(name)
+    return render_template('index.html', name=name)

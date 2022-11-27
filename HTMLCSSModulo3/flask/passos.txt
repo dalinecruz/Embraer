@@ -27,7 +27,4 @@ Renderizar o template
 
 Criar templates ou rotas dinâmicas
 ---------------------------------------------------------------------------------
-Erro na inserção de dados:
-	Mudar o campo no models
-	Criar migrações (python manage.py makemigrations)
-	Aplicar as migrações (python manage.py migrate)
+
