@@ -27,4 +27,7 @@ Renderizar o template
 
 Criar templates ou rotas dinâmicas
 ---------------------------------------------------------------------------------
+Instalar dependência (pip install flask-wtf)
+
+Atualizar o requeriments.txt (pip freeze > requeriments.txt)
 
