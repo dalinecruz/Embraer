@@ -1,0 +1,37 @@
+---------------------------------------------------------------------------------
+Desativar o Conda (conda deactivate)
+
+Verificar a versão do Python (python --version)
+
+Criar um ambiente virtual (python -m venv env)
+
+Ativar o ambiente virtual (.\env\Scripts\activate)
+
+Intalar o Django (pip install django)
+
+Verificar a versão do Django instalada (python -m django --version)
+
+Guardar as dependências (pip freeze > requeriments.txt)
+---------------------------------------------------------------------------------
+Criar arquivo do servidor (app.py)
+
+Criar rota '/' index
+
+(set FLASK_APP=app.py)
+
+(flask run)
+---------------------------------------------------------------------------------
+Criar migrações do model User (python manage.py makemigrations)
+
+Aplicar as migrações (python manage.py migrate)
+
+Python Shell - Verificação de criação de tabelas (python manage.py shell)
+
+Criar super usuário (python manage.py createsuperuser)
+
+Registrar models no admin.py (app1)
+---------------------------------------------------------------------------------
+Erro na inserção de dados:
+	Mudar o campo no models
+	Criar migrações (python manage.py makemigrations)
+	Aplicar as migrações (python manage.py migrate)
