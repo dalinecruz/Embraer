@@ -9,7 +9,7 @@ divisor = 1
 inicio = 0
 fim = 1000
 
-#solicita entrada do usuário e atribui valor a variavel divisor
+#solicita entrada do usu?rio e atribui valor a variavel divisor
 divisor = int(input('Insira um número e informarei seus múltiplos no intervalo de 0 a 1000: '))
 
 # verifica quais números são divisíveis pelo conteudo da variavel divisor, e exibe aqueles que são
